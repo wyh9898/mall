@@ -1,4 +1,4 @@
-# project01
+# mall
 
 ## Project setup
 ```
